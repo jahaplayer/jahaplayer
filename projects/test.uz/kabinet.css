@@ -1,0 +1,18 @@
+*{
+        margin : 0px; padding: 0px;
+}
+
+#rasm{
+        width :  50px; height : 50px; border-radius: 50%; margin: 10 10 10 90; float: left;
+}
+header h2{
+        padding-top: 23px; padding-left: 10px; display: inlile-block; float: left;
+}
+
+header{
+       width: 100%; height: auto; background-color: rgb(0 0 255 / 81%); overflow:auto;
+}
+
+section{
+        width: 70px; height: 88vh; background: rgb(0 0 255 / 81%);
+}

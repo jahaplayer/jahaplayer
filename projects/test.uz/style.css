@@ -1,0 +1,75 @@
+*{
+        margin: 0px; padding: 0px;     
+}
+header #bir{
+        font-size: 40px;
+        color : blue;
+        text-shadow: 2px 2px yellow;
+        font-weight: bold;
+        padding : 10px 0px 0px 0px;
+        float: left; 
+        display: inline-block;
+}
+header #ikki ul{
+        float: right;
+}
+
+header #ikki ul li{
+        list-style-type: none;
+        display: inline-block;
+        vertical-align: bottom;
+        padding: 30px 5px 0px 30px;
+        font-weight: bold;
+        font-size: 17px; 
+}
+
+header{
+        overflow: auto;
+        width : 70%; margin: auto;       
+}
+#sar{
+    box-shadow: 5px 5px 3px #9c9c9c;
+}
+section{
+        display: flex;
+        flex-wrap: wrap;
+        width: 80%;    margin: auto;
+        padding-top: 30px;      
+}
+
+.element{
+        width: 30%; height: auto; border:1px solid black;
+        margin: 15px;
+}
+
+.element img{
+        width: 100%;
+        height: 200px;
+}
+
+.fan{
+        text-align: center;     
+}
+
+.son{
+        text-align: center;
+}
+a:link{
+        text-decoration: none;
+        color: black;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+  
+}
+
+a:hover {
+  text-decoration: none;
+  color : blue;
+}
+
+a:active {
+  text-decoration: none;
+}
